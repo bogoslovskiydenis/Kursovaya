@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kursovaya</string>
+    <string name="Enter_A">Введите А</string>
+    <string name="Enter_B">Введите Б</string>
+    <string name="y">Y</string>
+    <string name="Exit">Вихід</string>
+    <string name="Calculate_Y">Обчислити Y</string>
+</resources>
